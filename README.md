@@ -37,3 +37,4 @@ Business-ready tables are created for analytics, including:
 
 ## Dashboard
 The final metrics are visualized in **Snowsight** using SQL queries and built-in chart features.
+![Snowflake Dashboard](Dashboard.png)
